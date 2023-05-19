@@ -1,0 +1,16 @@
+{
+  "tabela_usuario": "spotify_user",
+  "coluna_usuario": "name_user",
+  "tabela_plano": "spotify_plan",
+  "coluna_plano": "name_plan",
+  "tabela_historico_de_reproducoes": "history_spotify",
+  "coluna_historico_de_reproducoes": "song_id",
+  "tabela_seguindo_artistas": "following_spotify",
+  "coluna_seguindo_artistas": "artist_id",
+  "tabela_artista": "artist_spotify",
+  "coluna_artista": "name_artist",
+  "tabela_album": "album_spotify",
+  "coluna_album": "name_album",
+  "tabela_cancoes": "songs_spotify",
+  "coluna_cancoes": "name_song"
+}
